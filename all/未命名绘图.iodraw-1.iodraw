@@ -25,6 +25,9 @@
         <mxCell id="713QYUTJFUzzWB0h_uUz-48" value="&lt;h2&gt;轻量化代码漏洞分析大模型&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="409" width="230" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="713QYUTJFUzzWB0h_uUz-51" value="&lt;h3&gt;支撑&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="483" width="50" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
