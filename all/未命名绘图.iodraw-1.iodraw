@@ -49,13 +49,10 @@
         <mxCell id="713QYUTJFUzzWB0h_uUz-56" value="&lt;h3&gt;沙箱隔离&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="543.75" y="468" width="122.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="713QYUTJFUzzWB0h_uUz-57" value="&lt;h3&gt;用户数据库构建&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="547.5" y="510" width="115" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="713QYUTJFUzzWB0h_uUz-58" value="&lt;h3&gt;代码沙箱隔离&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="560" width="100" height="30" as="geometry" />
+          <mxGeometry x="610" y="555" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="713QYUTJFUzzWB0h_uUz-59" value="&lt;h3&gt;沙箱隔离&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="713QYUTJFUzzWB0h_uUz-59" value="&lt;h3&gt;用户数据库构建&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="510" width="122.5" height="30" as="geometry" />
         </mxCell>
       </root>
