@@ -20,7 +20,7 @@
           <mxGeometry x="72.81786941580755" y="16.238532110091743" width="57.18213058419244" height="57.18213058419244" as="geometry" />
         </mxCell>
         <mxCell id="713QYUTJFUzzWB0h_uUz-48" value="&lt;h2&gt;轻量化代码漏洞分析大模型&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="390" width="230" height="60" as="geometry" />
+          <mxGeometry x="220" y="409" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
