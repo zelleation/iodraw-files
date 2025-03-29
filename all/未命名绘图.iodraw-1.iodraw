@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="713QYUTJFUzzWB0h_uUz-60" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="520" y="260" width="180" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="713QYUTJFUzzWB0h_uUz-46" value="&lt;h2&gt;代码漏洞分析平台&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="399" width="150" height="60" as="geometry" />
         </mxCell>
@@ -51,9 +54,6 @@
         </mxCell>
         <mxCell id="713QYUTJFUzzWB0h_uUz-59" value="&lt;h3&gt;用户数据库构建&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="543.75" y="362" width="122.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="713QYUTJFUzzWB0h_uUz-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="260" width="180" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
