@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="713QYUTJFUzzWB0h_uUz-60" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="520" y="260" width="180" height="230" as="geometry" />
+          <mxGeometry x="515" y="300" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="713QYUTJFUzzWB0h_uUz-46" value="&lt;h2&gt;代码漏洞分析平台&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="399" width="150" height="60" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="713QYUTJFUzzWB0h_uUz-48" value="&lt;h2&gt;轻量化代码漏洞分析大模型&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="384.5" width="120" height="89" as="geometry" />
+          <mxGeometry x="280" y="345.5" width="120" height="89" as="geometry" />
         </mxCell>
         <mxCell id="713QYUTJFUzzWB0h_uUz-51" value="&lt;h3&gt;支撑&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="380" width="50" height="60" as="geometry" />
