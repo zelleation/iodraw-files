@@ -77,10 +77,10 @@
           <mxGeometry x="301.98" y="-330" width="95.64" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-4" value="&lt;h2&gt;数据清洗&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="296.65999999999997" y="-290" width="106.27118644067797" height="60" as="geometry" />
+          <mxGeometry x="296.66" y="-290" width="106.27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-5" value="&lt;h2&gt;数据加强&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="505.51322033898305" y="-70" width="106.27118644067797" height="60" as="geometry" />
+          <mxGeometry x="296.663220338983" y="-250" width="106.27118644067797" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
