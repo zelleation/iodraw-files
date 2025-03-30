@@ -1,32 +1,17 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="O15OIJRE_CsFJYpaa9JG">
-    <mxGraphModel dx="1877" dy="2959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZdyZww5p6Cli56bb2LOY-19" value="" style="group;dashed=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="10" y="-1160" width="570" height="710" as="geometry" />
+          <mxGeometry x="40" y="-1140" width="570" height="710" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="ZdyZww5p6Cli56bb2LOY-19" vertex="1">
           <mxGeometry x="-19.322033898305083" y="-20" width="589.3220338983051" height="730" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" parent="ZdyZww5p6Cli56bb2LOY-19" vertex="1">
           <mxGeometry width="550" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="ZdyZww5p6Cli56bb2LOY-1" value="&lt;h1&gt;缺陷代码收集&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZdyZww5p6Cli56bb2LOY-19" vertex="1">
-          <mxGeometry x="183.21830508474577" y="30" width="183.5593220338983" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZdyZww5p6Cli56bb2LOY-2" value="&lt;h2&gt;爬取开源代码漏洞&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="ZdyZww5p6Cli56bb2LOY-19" vertex="1">
-          <mxGeometry x="14.491525423728813" y="90" width="154.57627118644066" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZdyZww5p6Cli56bb2LOY-3" value="&lt;h2&gt;数据分类&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="ZdyZww5p6Cli56bb2LOY-19" vertex="1">
-          <mxGeometry x="187" y="90" width="95.64406779661017" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZdyZww5p6Cli56bb2LOY-4" value="&lt;h2&gt;数据清洗&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="ZdyZww5p6Cli56bb2LOY-19" vertex="1">
-          <mxGeometry x="298" y="90" width="106.27118644067797" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZdyZww5p6Cli56bb2LOY-5" value="&lt;h2&gt;数据加强&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="ZdyZww5p6Cli56bb2LOY-19" vertex="1">
-          <mxGeometry x="420.00322033898306" y="90" width="106.27118644067797" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" parent="ZdyZww5p6Cli56bb2LOY-19" vertex="1">
           <mxGeometry x="239.10915254237287" y="190" width="72.45762711864407" height="60" as="geometry" />
@@ -81,6 +66,21 @@
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-15" value="&lt;h2&gt;平台安全性&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="ZdyZww5p6Cli56bb2LOY-24" vertex="1">
           <mxGeometry x="20" y="105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdyZww5p6Cli56bb2LOY-1" value="&lt;h1&gt;缺陷代码收集&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="268.7283050847458" y="-130" width="183.5593220338983" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdyZww5p6Cli56bb2LOY-2" value="&lt;h2&gt;爬取开源代码漏洞&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="100.00152542372881" y="-70" width="154.57627118644066" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdyZww5p6Cli56bb2LOY-3" value="&lt;h2&gt;数据分类&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="272.51" y="-70" width="95.64406779661017" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdyZww5p6Cli56bb2LOY-4" value="&lt;h2&gt;数据清洗&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="383.51" y="-70" width="106.27118644067797" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdyZww5p6Cli56bb2LOY-5" value="&lt;h2&gt;数据加强&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="505.51322033898305" y="-70" width="106.27118644067797" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
