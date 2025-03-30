@@ -10,7 +10,7 @@
         <mxCell id="blIio2pdG_WoEEq2P-n4-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="-347.5" width="70" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="blIio2pdG_WoEEq2P-n4-9" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="blIio2pdG_WoEEq2P-n4-9" value="" style="group;dashed=1;dashPattern=8 8;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="100" y="-400" width="210.00000000000003" height="150" as="geometry" />
         </mxCell>
         <mxCell id="blIio2pdG_WoEEq2P-n4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="blIio2pdG_WoEEq2P-n4-9">
@@ -31,7 +31,7 @@
         <mxCell id="ZdyZww5p6Cli56bb2LOY-5" value="&lt;h2&gt;数据加强&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="blIio2pdG_WoEEq2P-n4-9" vertex="1">
           <mxGeometry x="110.00000000000009" y="70" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="blIio2pdG_WoEEq2P-n4-10" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="blIio2pdG_WoEEq2P-n4-10" value="" style="group;dashed=1;dashPattern=8 8;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="380" y="-400" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="blIio2pdG_WoEEq2P-n4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="blIio2pdG_WoEEq2P-n4-10">
@@ -52,7 +52,7 @@
         <mxCell id="ZdyZww5p6Cli56bb2LOY-10" value="&lt;h2&gt;迁移学习&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="blIio2pdG_WoEEq2P-n4-10" vertex="1">
           <mxGeometry x="130" y="105" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="blIio2pdG_WoEEq2P-n4-11" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="blIio2pdG_WoEEq2P-n4-11" value="" style="group;dashed=1;dashPattern=8 8;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="700" y="-400" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="blIio2pdG_WoEEq2P-n4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="blIio2pdG_WoEEq2P-n4-11">
