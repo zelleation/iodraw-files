@@ -1,0 +1,55 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1500" dy="746" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0FyDK0My8KrNYoMTgc6Y-0" target="0FyDK0My8KrNYoMTgc6Y-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-0" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;爬取漏洞代码&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="52" y="139" width="201" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0FyDK0My8KrNYoMTgc6Y-1" target="0FyDK0My8KrNYoMTgc6Y-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;代码漏洞分析模型训练&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="383" y="139" width="201" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0FyDK0My8KrNYoMTgc6Y-3" target="0FyDK0My8KrNYoMTgc6Y-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370.2000427246094" y="250.39999389648438" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="816" y="35" />
+              <mxPoint x="484" y="35" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0FyDK0My8KrNYoMTgc6Y-3" target="0FyDK0My8KrNYoMTgc6Y-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;性能评估&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="715" y="139" width="201" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;漏洞检测应用平台开发&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1046" y="139" width="201" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-9" value="反复调优&lt;div&gt;选择最佳漏洞分析大模型&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="567" y="44" width="153" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-17" value="&lt;font face=&quot;黑体&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot; style=&quot;font-size: 16px;&quot;&gt;·爬取开源代码仓，收集漏洞代码&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;·&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;单独评估每个hunk与漏洞修复的相关性&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;font style=&quot;background-color: initial; font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;font style=&quot;background-color: initial; font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;·清洗漏洞代码，按CWE标准进行分类，搭建数据集&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;·数据增强，保证模型的泛化能力&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="35" y="227" width="248" height="221" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-18" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;·根据&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: 黑体; font-size: 16px;&quot;&gt;分析漏洞代码的资源消耗与性能&lt;/span&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;选择合适的模型架构&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; background-color: initial;&quot;&gt;学习率调度、优化器选择、&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; background-color: initial;&quot; lang=&quot;EN-US&quot;&gt;batch size&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; background-color: initial;&quot;&gt;调整，设计高效的训练流程，监控训练过程的损失和验证集性能&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 12pt; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 12pt; background-color: initial;&quot;&gt;·迁移学习和预训练技术，利用预训练大模型降低成本&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="390" y="227" width="248" height="221" as="geometry" />
+        </mxCell>
+        <mxCell id="9r3gC9d4gs0yhEj4bx3P-1" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;传统性能指标（准确率、召回率、&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;F1-score&lt;/span&gt;）&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;·推理速度和内存占用等资源消耗指标，衡量模型轻量化程度&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;·&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 12pt; background-color: initial;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;收集模型错误案例，识别其局限性，针对问题进一步优化&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="708" y="227" width="248" height="221" as="geometry" />
+        </mxCell>
+        <mxCell id="9r3gC9d4gs0yhEj4bx3P-2" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;打造一个功能完善、易用性强的代码漏洞检测工具&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;用户需求提交后，对代码漏洞进行检测，报告生成漏洞检测报告与修复建议方案&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;·&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 12pt; background-color: initial;&quot;&gt;实施&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; background-color: initial;&quot; lang=&quot;EN-US&quot;&gt;RBAC&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; background-color: initial;&quot;&gt;（基于角色的访问控制），限制用户权限，通过代码沙箱隔离保证平台的安全性&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="989" y="227" width="248" height="221" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
