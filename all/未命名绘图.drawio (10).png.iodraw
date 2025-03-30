@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="blIio2pdG_WoEEq2P-n4-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="blIio2pdG_WoEEq2P-n4-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="-410" width="870" height="170" as="geometry" />
         </mxCell>
         <mxCell id="blIio2pdG_WoEEq2P-n4-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="blIio2pdG_WoEEq2P-n4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="700" y="-400" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="blIio2pdG_WoEEq2P-n4-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZdyZww5p6Cli56bb2LOY-11" target="ZdyZww5p6Cli56bb2LOY-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-11" value="&lt;h1&gt;用户代码检测平台&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="-390" width="230" height="50" as="geometry" />
