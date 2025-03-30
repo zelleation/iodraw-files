@@ -58,6 +58,9 @@
         <mxCell id="ZdyZww5p6Cli56bb2LOY-15" value="&lt;h2&gt;平台安全性&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="-330" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="blIio2pdG_WoEEq2P-n4-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-520" width="100" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
