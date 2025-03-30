@@ -71,16 +71,16 @@
           <mxGeometry x="390" y="-390" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-7" value="&lt;h2&gt;模型架构&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="-270" width="120" height="30" as="geometry" />
+          <mxGeometry x="280" y="-320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-8" value="&lt;h2&gt;模型训练&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="-230" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-9" value="&lt;h2&gt;预训练&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="607" y="-270" width="120" height="60" as="geometry" />
+          <mxGeometry x="607" y="-270" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-10" value="&lt;h2&gt;迁移学习&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="740" y="-270" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="-270" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
