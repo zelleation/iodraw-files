@@ -68,19 +68,19 @@
           <mxGeometry x="130" y="-120" width="550" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-6" value="&lt;h1&gt;代码漏洞分析模型&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="490" y="-310" width="230" height="50" as="geometry" />
+          <mxGeometry x="390" y="-390" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-7" value="&lt;h2&gt;模型架构&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="145" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="-270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-8" value="&lt;h2&gt;模型训练&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="278" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="473" y="-270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-9" value="&lt;h2&gt;预训练&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="412" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="607" y="-270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-10" value="&lt;h2&gt;迁移学习&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="545" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="-270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
