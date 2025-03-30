@@ -50,10 +50,10 @@
           <mxGeometry x="700" y="-390" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-12" value="&lt;h2&gt;漏洞检测&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="470" y="-565" width="110" height="30" as="geometry" />
+          <mxGeometry x="700" y="-290" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-13" value="&lt;h2&gt;修复方案&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="600" y="-565" width="110" height="30" as="geometry" />
+          <mxGeometry x="820" y="-290" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-14" value="&lt;h2&gt;用户数据管理&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="-330" width="110" height="30" as="geometry" />
