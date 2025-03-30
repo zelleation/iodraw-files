@@ -1,0 +1,63 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1050" dy="522" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0FyDK0My8KrNYoMTgc6Y-0" target="0FyDK0My8KrNYoMTgc6Y-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-0" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;建立数据集与&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;预处理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="207" y="89" width="201" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0FyDK0My8KrNYoMTgc6Y-1" target="0FyDK0My8KrNYoMTgc6Y-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;模型训练&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="207" y="212" width="201" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0FyDK0My8KrNYoMTgc6Y-3" target="0FyDK0My8KrNYoMTgc6Y-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="169.20004272460938" y="256.3999938964844" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0FyDK0My8KrNYoMTgc6Y-3" target="0FyDK0My8KrNYoMTgc6Y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;性能评估&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="207" y="336" width="201" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;应用平台开发&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="207" y="459" width="201" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-9" value="反复调优" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="163" y="272" width="16" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="54" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="185" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="316" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="447" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-17" value="&lt;font face=&quot;黑体&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot; style=&quot;font-size: 16px;&quot;&gt;爬取开源代码仓&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;font style=&quot;background-color: initial; font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;数据清洗与格式化&lt;/font&gt;&lt;span style=&quot;background-color: initial; text-wrap-mode: nowrap; color: rgba(0, 0, 0, 0); font-size: 0px;&quot;&gt;数&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap-mode: nowrap; color: rgba(0, 0, 0, 0); font-size: 0px;&quot;&gt;据清洗与%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20data-font-src%3D%26quot%3Bhttps%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593%26quot%3B%20face%3D%26quot%3B%E5%AE%8B%E4%BD%93%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2016px%3B%26quot%3B%26gt%3B%E7%88%AC%E5%8F%96%E5%BC%80%E6%BA%90%E4%BB%A3%E7%A0%81%E4%BB%93%26lt%3B%2Ffont%26gt%3B%26lt%3Bdiv%20style%3D%26quot%3Bfont-size%3A%2016px%3B%26quot%3B%26gt%3B%26lt%3Bfont%20data-font-src%3D%26quot%3Bhttps%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593%26quot%3B%20face%3D%26quot%3B%E5%AE%8B%E4%BD%93%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2016px%3B%26quot%3B%26gt%3B%E6%95%B0%E6%8D%AE%E5%88%86%E7%B1%BB%E6%9E%84%E5%BB%BA%E6%95%B0%E6%8D%AE%E9%9B%86%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%20style%3D%26quot%3Bfont-size%3A%2016px%3B%26quot%3B%26gt%3B%26lt%3Bfont%20data-font-src%3D%26quot%3Bhttps%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593%26quot%3B%20face%3D%26quot%3B%E5%AE%8B%E4%BD%93%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2016px%3B%26quot%3B%26gt%3B%E6%95%B0%E6%8D%AE%E9%9B%86%E5%88%92%E5%88%86%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%20style%3D%26quot%3Bfont-size%3A%2016px%3B%26quot%3B%26gt%3B%26lt%3Bfont%20data-font-src%3D%26quot%3Bhttps%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593%26quot%3B%20face%3D%26quot%3B%E5%AE%8B%E4%BD%93%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2016px%3B%26quot%3B%26gt%3B%E6%95%B0%E6%8D%AE%E6%A0%87%E6%B3%A8%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%20style%3D%26quot%3Bfont-size%3A%2016px%3B%26quot%3B%26gt%3B%26lt%3Bfont%20data-font-src%3D%26quot%3Bhttps%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593%26quot%3B%20face%3D%26quot%3B%E5%AE%8B%E4%BD%93%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2016px%3B%26quot%3B%26gt%3B%E6%95%B0%E6%8D%AE%E5%A2%9E%E5%BC%BA%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22480%22%20y%3D%2243%22%20width%3D%22246%22%20height%3D%22118%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3Eshu&lt;/span&gt;&lt;font style=&quot;background-color: initial; font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;构建并划分数据集&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;font style=&quot;background-color: initial; font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93&quot;&gt;数据标注与&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;数据增强&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="452.5" y="44" width="239" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;模型选择与设计&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;cvTFJo0RPVObytYL0Yo3&quot;&gt;模型训练与调优&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;cvTFJo0RPVObytYL0Yo3&quot;&gt;搭建知识库增强检索能力&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="449" y="177" width="246" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-19" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;评估模型性能&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;eOMlTB-jTSEXD8hVyTCr&quot;&gt;优化模型&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;eOMlTB-jTSEXD8hVyTCr&quot;&gt;测试未知代码漏洞检测能力&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="449" y="309" width="246" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="0FyDK0My8KrNYoMTgc6Y-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;设计开发用户平台&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;oZ5lu7SvLA19uxb75BmZ&quot;&gt;搭建用户数据库&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;oZ5lu7SvLA19uxb75BmZ&quot;&gt;应用推广与合作&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="449" y="442" width="246" height="118" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
