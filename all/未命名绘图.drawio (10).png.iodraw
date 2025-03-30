@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="blIio2pdG_WoEEq2P-n4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-400" width="260" height="150" as="geometry" />
+          <mxGeometry x="690" y="-400" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="blIio2pdG_WoEEq2P-n4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="-400" width="250" height="150" as="geometry" />
@@ -50,16 +50,16 @@
           <mxGeometry x="700" y="-390" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-12" value="&lt;h2&gt;漏洞检测&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="470" y="-565" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="-565" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-13" value="&lt;h2&gt;修复方案&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="600" y="-565" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="-565" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-14" value="&lt;h2&gt;用户数据管理&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="-565" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="-565" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZdyZww5p6Cli56bb2LOY-15" value="&lt;h2&gt;平台安全性&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="-565" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="-565" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
