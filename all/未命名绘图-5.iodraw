@@ -38,9 +38,9 @@
           <mxGeometry x="486" y="26" width="238" height="36" as="geometry" />
         </mxCell>
         <mxCell id="WFnVl_v0i9CbgiPStpNt-62" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;发送请求并验证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="531" y="429" width="130" height="31" as="geometry" />
+          <mxGeometry x="522" y="388" width="130" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="WFnVl_v0i9CbgiPStpNt-69" value="加密保护用户数据" style="text;whiteSpace=wrap;html=1;align=center;fontSize=26;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WFnVl_v0i9CbgiPStpNt-69" value="加密保护&lt;div&gt;用户数据&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=26;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="517" y="150" width="159" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WFnVl_v0i9CbgiPStpNt-70" value="沙箱隔离防止恶意代码" style="text;whiteSpace=wrap;html=1;align=center;fontSize=26;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
