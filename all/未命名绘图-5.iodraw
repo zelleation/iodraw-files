@@ -70,15 +70,6 @@
         <mxCell id="WFnVl_v0i9CbgiPStpNt-82" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;代码检测报告&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;漏洞修复方案&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="985" y="262" width="103" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="WFnVl_v0i9CbgiPStpNt-56" value="可视化工具" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;container=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="753" y="123" width="144" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WFnVl_v0i9CbgiPStpNt-71" value="生成代码检测报告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;container=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="753" y="225" width="144" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WFnVl_v0i9CbgiPStpNt-72" value="代码高亮&lt;div style=&quot;font-size: 19px;&quot;&gt;漏洞定位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;container=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="753" y="317" width="144" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="WFnVl_v0i9CbgiPStpNt-37" value="漏洞代码&lt;div style=&quot;font-size: 20px;&quot;&gt;数据集&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=20;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2" y="235" width="133" height="94" as="geometry" />
         </mxCell>
@@ -102,6 +93,18 @@
         </mxCell>
         <mxCell id="WFnVl_v0i9CbgiPStpNt-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=43;entryPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;fontSize=20;" parent="hk-i9NCOrVXNUWpJmq-K-1" source="WFnVl_v0i9CbgiPStpNt-37" target="WFnVl_v0i9CbgiPStpNt-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hk-i9NCOrVXNUWpJmq-K-2" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="753" y="123" width="163" height="254" as="geometry" />
+        </mxCell>
+        <mxCell id="WFnVl_v0i9CbgiPStpNt-56" value="可视化工具" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;container=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="hk-i9NCOrVXNUWpJmq-K-2" vertex="1">
+          <mxGeometry width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WFnVl_v0i9CbgiPStpNt-71" value="生成代码检测报告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;container=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="hk-i9NCOrVXNUWpJmq-K-2" vertex="1">
+          <mxGeometry y="102" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WFnVl_v0i9CbgiPStpNt-72" value="代码高亮&lt;div style=&quot;font-size: 20px;&quot;&gt;漏洞定位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;container=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="hk-i9NCOrVXNUWpJmq-K-2" vertex="1">
+          <mxGeometry y="194" width="163" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
