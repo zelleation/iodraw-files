@@ -106,6 +106,9 @@
         <mxCell id="EMTbVL95BprzIUyH9EE0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EMTbVL95BprzIUyH9EE0-18" target="EMTbVL95BprzIUyH9EE0-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PuJXa5LW5_3XX3WvBwh_-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://files.mastodon.social/media_attachments/files/111/303/080/020/182/740/small/9226738c9760636d.png;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="10" width="783" height="284" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
