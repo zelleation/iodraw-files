@@ -35,7 +35,7 @@
           <mxGeometry x="775" y="70" width="33.6" height="33.6" as="geometry" />
         </mxCell>
         <mxCell id="WFnVl_v0i9CbgiPStpNt-60" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;提交数据与漏洞检测报告&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="486" y="26" width="238" height="36" as="geometry" />
+          <mxGeometry x="475" y="29" width="238" height="36" as="geometry" />
         </mxCell>
         <mxCell id="WFnVl_v0i9CbgiPStpNt-62" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;发送请求并验证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="508" y="386" width="158" height="36" as="geometry" />
