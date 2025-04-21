@@ -30,6 +30,9 @@
         <mxCell id="9vMKdEbSqVrWVn5Avk94-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;设计实验&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;评估模型&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="9vMKdEbSqVrWVn5Avk94-42" vertex="1">
           <mxGeometry x="18" y="90" width="90" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="NjGan1lGt2D7cqfdBFkx-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="9vMKdEbSqVrWVn5Avk94-42">
+          <mxGeometry x="-34" y="20" width="100" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="9vMKdEbSqVrWVn5Avk94-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9vMKdEbSqVrWVn5Avk94-42" target="9vMKdEbSqVrWVn5Avk94-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
