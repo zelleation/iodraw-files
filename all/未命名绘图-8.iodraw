@@ -59,7 +59,7 @@
         <mxCell id="EMTbVL95BprzIUyH9EE0-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EMTbVL95BprzIUyH9EE0-31" target="EMTbVL95BprzIUyH9EE0-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EMTbVL95BprzIUyH9EE0-31" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;大模型&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#cce5ff;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="EMTbVL95BprzIUyH9EE0-31" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;大模型&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;自动化&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="418" y="141" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EMTbVL95BprzIUyH9EE0-33" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 17px;&quot;&gt;嵌入漏洞分类依据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
