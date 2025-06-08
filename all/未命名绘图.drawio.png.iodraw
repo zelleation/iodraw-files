@@ -67,8 +67,8 @@
         <mxCell id="aUGIhHPZQSOPEwysdWb_-38" value="卷&lt;div&gt;积&lt;/div&gt;&lt;div&gt;神&lt;/div&gt;&lt;div&gt;经&lt;/div&gt;&lt;div&gt;网&lt;/div&gt;&lt;div&gt;络&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="aUGIhHPZQSOPEwysdWb_-39" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="220" width="60" height="80" as="geometry" />
+        <mxCell id="aUGIhHPZQSOPEwysdWb_-39" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="300" y="245" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
