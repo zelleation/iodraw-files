@@ -290,10 +290,10 @@
           <mxGeometry x="590" y="310" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5kfS4zDlp_EM8ump7kPN-136" value="A类掩码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5kfS4zDlp_EM8ump7kPN-144" value="A类掩码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="320" width="60" height="30" as="geometry" />
+        <mxCell id="5kfS4zDlp_EM8ump7kPN-144" value="B类掩码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
