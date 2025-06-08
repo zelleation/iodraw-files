@@ -65,7 +65,19 @@
           <mxGeometry x="450" y="230" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5kfS4zDlp_EM8ump7kPN-32" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#969696;" vertex="1" parent="1">
-          <mxGeometry x="500" y="280" width="20" height="20" as="geometry" />
+          <mxGeometry x="450" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5kfS4zDlp_EM8ump7kPN-33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#969696;" vertex="1" parent="1">
+          <mxGeometry x="470" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5kfS4zDlp_EM8ump7kPN-34" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#969696;" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5kfS4zDlp_EM8ump7kPN-35" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#969696;" vertex="1" parent="1">
+          <mxGeometry x="510" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5kfS4zDlp_EM8ump7kPN-36" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#969696;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
