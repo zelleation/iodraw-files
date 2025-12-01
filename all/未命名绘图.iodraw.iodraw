@@ -48,7 +48,7 @@
             <mxPoint x="150" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="59_T49i7RlQHVX-AtkCN-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="59_T49i7RlQHVX-AtkCN-17" value="111.101.1.1/24&lt;div&gt;网关111.101.1.2/24&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
